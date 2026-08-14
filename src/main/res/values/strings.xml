@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoScroll</string>
+    <string name="accessibility_service_label">NoScroll - Bloqueur Instagram &amp; TikTok</string>
+    <string name="accessibility_service_description">Détecte l\'ouverture et l\'utilisation des applications Instagram et TikTok afin de bloquer le doomscrolling après 10 minutes d\'utilisation continue.</string>
+    <string name="btn_overlay_permission">1. Autoriser l\'overlay (Affichage par-dessus)</string>
+    <string name="btn_accessibility_permission">2. Activer le Service d\'Accessibilité</string>
+    <string name="overlay_title">Temps écoulé ! Pause NoScroll</string>
+    <string name="overlay_subtitle">Vous avez atteint la limite de 10 minutes sur cette application.</string>
+    <string name="overlay_cooldown_prefix">Temps de recharge restant :</string>
+    <string name="overlay_close_btn">Quitter l\'application</string>
+</resources>
