@@ -1,0 +1,7 @@
+{
+  "name": "NoScroll",
+  "description": "Application anti-scroll bloquant Instagram et TikTok après 10 min d'utilisation avec un temps de recharge de 40 min.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
